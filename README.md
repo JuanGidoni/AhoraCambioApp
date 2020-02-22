@@ -1,6 +1,6 @@
 # AhoraCambio App
 
-Version: 0.1
+Version: 0.18
 
 Current Currencies: USD & EURO to ARS Only.
 
