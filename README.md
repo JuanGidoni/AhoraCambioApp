@@ -1,7 +1,7 @@
 # AhoraCambio App
 
 Version: 0.18
-
+[Public Test](https://ahoracambio.netlify.com/)
 Current Currencies: USD & EURO to ARS Only.
 
 Author: [@JuanGidoni](https://github.com/JuanGidoni)
